@@ -1,8 +1,8 @@
 # 1. Write a python program to find the sum of odd and even numbers from a set of numbers.
-![Image](https://github.com/user-attachments/assets/513f58e1-f9d8-4a49-b8aa-ec375fcc9fc0)
+
 
 # 2. Write a python program to find the smallest number from a set of numbers.
-![alt text](https://woodesign.ie/cdn/shop/collections/umage-woo-design.jpg?v=1707259207&width=2048)
+
 
 # 3. Write a python program to find the sum of all numbers between 50 and 100, which are divisible by 3 and not divisible by 5.
 
