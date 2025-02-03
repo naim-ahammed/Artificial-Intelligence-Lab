@@ -2,7 +2,7 @@
 ![task1](https://prnt.sc/c-G4Du3jwcw-)
 
 # 2. Write a python program to find the smallest number from a set of numbers.
-
+![alt text](http://url/to/img.png)
 
 # 3. Write a python program to find the sum of all numbers between 50 and 100, which are divisible by 3 and not divisible by 5.
 
