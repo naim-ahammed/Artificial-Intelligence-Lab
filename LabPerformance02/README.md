@@ -2,28 +2,28 @@
 ![List](Output-Image/List-Output.png)
 
 # Set: Find the common elements between two lists using sets.
-![Output1](https://github.com/user-attachments/assets/513f58e1-f9d8-4a49-b8aa-ec375fcc9fc0)
+![Set](Output-Image/Set-Output.png)
 
 # Tuple: Create a tuple of student records (name, age, grade) and sort by grade.
-![Output1](https://github.com/user-attachments/assets/513f58e1-f9d8-4a49-b8aa-ec375fcc9fc0)
+![Tuple](Output-Image/Tuple-Output.png)
 
 # Dictionary: Count word occurrences in a given text and store them in a dictionary.
-![Output1](https://github.com/user-attachments/assets/513f58e1-f9d8-4a49-b8aa-ec375fcc9fc0)
+![Dictionary](Output-Image/Dictionary-Output.png)
 
 # NumPy#1: Generate a 5x5 matrix of random integers and compute row-wise sums.
-![Output1](https://github.com/user-attachments/assets/513f58e1-f9d8-4a49-b8aa-ec375fcc9fc0)
+![NumPy1](Output-Image/NumPy1-Output.png)
 
 # NumPy#2: Create an array of 100 random values and normalize them between 0 and 1.
-![Output1](https://github.com/user-attachments/assets/513f58e1-f9d8-4a49-b8aa-ec375fcc9fc0)
+![NumPy2](Output-Image/NumPy2-Output.png)
 
 # Pandas#1: Load a CSV file of sales data and compute total revenue per product.
-![Output1](https://github.com/user-attachments/assets/513f58e1-f9d8-4a49-b8aa-ec375fcc9fc0)
+![Pandas1](Output-Image/Pandas1-Output.png)
 
 # Pandas#2: Fill missing values in a dataset with column-wise means.
-![Output1](https://github.com/user-attachments/assets/513f58e1-f9d8-4a49-b8aa-ec375fcc9fc0)
+![Pandas1](Output-Image/Pandas1-Output.png)
 
 # Matplotlib#1: Plot a line graph showing temperature variations over a week.
-![Output1](https://github.com/user-attachments/assets/513f58e1-f9d8-4a49-b8aa-ec375fcc9fc0)
+![Matplotlib1](Output-Image/Matplotlib1-Output.png)
 
 # Matplotlib#2: Create a bar chart comparing sales revenue across different regions.
-![Output1](https://github.com/user-attachments/assets/513f58e1-f9d8-4a49-b8aa-ec375fcc9fc0)
+![Matplotlib](Output-Image/Matplotlib2-Output.png)
