@@ -1,5 +1,5 @@
 # List: Given a list of numbers, remove duplicates and sort in ascending order.
-![List](LabPerformance02\Output-Image\List-Output.png)
+![List](D:\code\Artificial-Intelligence-Lab\LabPerformance02\Output-Image\List-Output.png)
 
 # Set: Find the common elements between two lists using sets.
 ![Output1](https://github.com/user-attachments/assets/513f58e1-f9d8-4a49-b8aa-ec375fcc9fc0)
