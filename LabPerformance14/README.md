@@ -15,4 +15,8 @@ The algorithm tries to evolve a population of candidate solutions until the sum 
 The fitness of an individual is calculated as:
  ## abs (T-(L[0] + L[1] ))
 
+ # Output:
+ ![ Output ](Output.png)
+
+
 
